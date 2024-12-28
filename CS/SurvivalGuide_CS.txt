@@ -1,5 +1,5 @@
 SurvivalGuide_CS = {
-SurvivalGuide_WindowTitle = "PRŮVODCE PŘEŽITÍM ZOMBOID",
+SurvivalGuide_WindowTitle = "PŘÍRUČKA PRO PŘEŽITÍ V ZOMBOIDU",
 SurvivalGuide_entrie1title = "PŘÍRUČKA PRO PŘEŽITÍ #1 - OVLÁDEJ SE",
 SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> PŘÍRUČKA PRO PŘEŽITÍ V ZOMBOIDU <LINE> <SIZE:large> #1 - OVLÁDEJ SE <LINE> <IMAGE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> Nepodaří se ti přežít dlouho, pokud se pořádně nenadechneš a nenaučíš se základy.",
 SurvivalGuide_entrie1moreinfo = " <H1> POHYB <BR> <TEXT> Pro pohyb v Project Zomboid používej klávesy WASD.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
@@ -53,4 +53,35 @@ SurvivalGuide_entrie8moreinfo = " <H1> VÝBĚR <BR> <TEXT> Tak jak jsi na tom s 
 " <BR> 2 : Vybere nejlepší střelnou zbraň. (Nezapomeň, že 'r' nabíjí!)  " ..
 " <BR> 3 : Vybere nejlepší sečnou zbraň pro boj v uzavřených prostorech. " ..
 " <BR> F : Vybere (a zapne) nejlepší zdroj světla. ",
+
+SurvivalGuide_entrie9title = "PŘÍRUČKA PRO PŘEŽITÍ #9 - VOZIDLA",
+SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> PŘÍRUČKA PRO PŘEŽITÍ V ZOMBOIDU <LINE> <SIZE:large> #9 - VOZIDLA <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> Vozidla přinášejí ve snaze o přežití výhody, ale také přinášejí hluk! Burácející motor přitáhne pozornost hordy na dost velkou vzdálenost...",
+SurvivalGuide_entrie9moreinfo = " <H1> NASKOČ SI <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> Pokud máš kliku, panikařící vlastník auta ti nechal klíčky ve dveřích, zapalování, nebo v přihrádce u spolujezdce. V opačném případě prohledej nemrtvé poblíž, kdyby náhodou jeden z nich byl majitel. Podobně pokud zvolené auto parkuje před nějakým domem, zkus prohledat ten. Klíč by mohl být uvnitř. <BR> Pořád nic? Proč se dovnitř nevloupat? Rozbij okénko vozidla, a odemkni si zevnitř. Pokud máš dostatečnou úroveň dovedností Mechanika a Elektronika, tak to dokážeš nastartovat bez klíče. <BR> " ..
+            " <H1> ČAS JET <BR> <TEXT> Klikni na zapalování na vložení klíčku, zapni motor a zkontroluj kontrolky na palubce. Nebo prostě zmáčkni klávesu Dopředu (výchozí: W) abys to rozjel <BR> Pokud motor auta není v dobrém stavu, možná na první pokus nenastartuje. Pokud se za každou cenu odmítá nastartovat, bude na čase zkontrolovat okno dovednosti Mechanika... <BR> Jeď opatrně! Čím hlasitější je auto, na tím větší vzdálenost tě zombíci uslyší a budou následovat...  <BR> " ..
+            " <H1> PALUBKA <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> Na palubní desce vozidla najdeš užitečné informace jako stav paliva, rychlost a otáčky. <BR> Ikonky na horní části palubky ti také prozradí stav motoru, polohu kufru, provozuschopnost světlometů atd. Kliknutí na tyto ikony ti otevře dostupné možnosti - například kliknutí na klimatizaci/topení otevře příslušné okno. <BR> " ..
+            " <H1> KRUHOVÉ MENU <BR> <TEXT> Zmáčkni 'V' když jsi uvnitř nebo vedle vozidla. Tím se ti otevře jeho kruhové menu <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> Z něj můžeš měnit sedadla, zamknout dveře, štelovat světla, otevřít okno Mechanika a další. <BR> " ..
+            " <H1> OKNO MECHANIKA <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> Přeživší bez schopností může zkontrolovat baterii, stav paliva a zjevné poškození částí vozidla. Přeživší se schopnostmi Mechanika bude schopen vidět další detaily, a instalovat a odinstalovat díly. <BR> Pro více informací o tomto a dovednosti Mechanika, klikni na ikonu info v levém horním rohu okna Mechanika.",
+
+SurvivalGuide_entrie10title = "SURVIVAL GUIDE #10 - POČASÍ",
+SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> PŘÍRUČKA PRO PŘEŽITÍ V ZOMBOIDU <LINE> <SIZE:large> #10 - POČASÍ <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Mlha, bouře a sníh činí hrozbu nemrtvých ještě náročnější! Teple se oblečte, když se zima začne blížit...",
+SurvivalGuide_entrie10moreinfo = "<H1> ZMĚNA KLIMATU <BR> <TEXT> Pohyby počasí v Project Zomboid jsou realistické. Simulovaný systém podnebí používá roční dobu a virtuální atmosférické fronty k vytvoření deště, sněhu, mlhy a bouří ve správné roční době. <LINE> " ..
+            " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> Vliv chladu, i tepla, má dopad na tvé přežití. <LINE> " ..
+            " Když přijde zima, tvoje odolnost vůči chladu bude nejvyšší, pokud jsi najedený, nejsi vyčerpaný a máš správné zimní oblečení. Také pomůže když jsi aktivní a fyzicky fit. Mokro a nemoc zvýší pravděpodobnost, že budeš trpět nachlazením. <LINE> <BR> " ..
+            " V období extrémních mrazů je nejlepší zahřát se u zdroje tepla nebo uvnitř budovy: zahřejí tě táboráky, topení v autech a kamna. <LINE> "..
+            " Pro přežití v horkém počasí je zase vhodné zůstat dobře hydratovaný a nosit lehčí oblečení. <LINE> <BR>" ..
+            " <H1> ZNALOST TEPLOTY <BR> <TEXT> Pokud chceš znát teplotu ve vašem bezprostředním okolí, mnoho digitálních hodinek dokáže teplotu zobrazit v tvém uživatelském rozhraní. <LINE> <BR> " ..
+            " <H1> MRAZIVÝ VÍTR <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> Zejména v zimních měsících se také stane faktorem chlad venkovního větru - a silný déšť to také umocní. Sněhové vánice uprostřed zimy mohou výrazně snížit teplotu kvůli silnému větru a nízké teplotě. <LINE> <BR> " ..
+            " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Chladný vítr ovlivňuje tvé tělo, ale na digitálních hodinkách neukáže přímý rozdíl v teplotě. Sleduj své nálady, abys viděl, kdy to na tebe působí. <LINE> <BR> " ..
+            " Zabal se do teplého!",
+
+SurvivalGuide_entrie11title = "SURVIVAL GUIDE #11 - PŘIKRČ A SCHOVEJ SE",
+SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> PŘÍRUČKA PRO PŘEŽITÍ V ZOMBOIDU <LINE> <SIZE:large> NOVÉ - PŘIKRČ A SCHOVEJ SE <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - Plížení <LINE> %2 - Sprint <LINE> %3 - Běh"
+SurvivalGuide_entrie11moreinfo = "<H1> PŘIKRČENÍ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> Přeživší se můžou přikrčit za zdmi a ploty pro snížení své viditelnosti! <LINE> V této pozici můžeš také běžet. <LINE> <BR> " ..
+            "<H1> SPRINT <BR> <TEXT> Pokud Běh nestačí, můžeš Sprintovat! <LINE> Zmáčnki %1 pro Sprint - ale buď opatrný, protože zběsilé kolize mohou vést k pádu na zem. <LINE> <BR> " ..
+            "<H1> AUTOMATICKÉ PŘELÉZÁNÍ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> Pro přelezení plotu, jednoduše Běž nebo Sprintuj jeho směrem. <LINE> <BR> " ..
+            "<H1> DUPNI MU NA HLAVU <BR> <TEXT> Když zombie leží na zemi: miř na hlavu! Údery do zbytku těla nebudou mít takový účinek. <LINE> <BR> " ..
+            "<H1> KOPÍ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> Kopí vyžaduje dobré načasování a správný odstup. Proč nezkusit vysprintovat s kopím na osamoceného zombíka? <LINE> <BR> " ..
+            "<H1> OCHRANNÉ PROSTŘEDKY <BR> <TEXT> Nošení vhodného oblečení tě může ochránit před kousnutím, škrábnutím a natrhnutím. Zmáčkni %2 k otevření panelu Ochrana a podívej se na přehled současné ochrany tvého přeživšího. <LINE> <BR> ",
+
+
 }
